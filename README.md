@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# Rexxs Random Additions
 
-## Setup
+## What does this mod do bro?
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+adds random things cuz, why not?
 
 ## License
 
