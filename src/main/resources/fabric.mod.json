@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "rra81206",
+  "version": "${version}",
+
+  "name": "Rexx Random Additions",
+  "description": "This mod adds a multitude of random items because, why not?",
+  "authors": [
+    "Rexx",
+    "Fabric team for making this possible"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/rra81206/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.rexx.rra.rra"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
